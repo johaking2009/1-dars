@@ -1,0 +1,21 @@
+# Node.js loyihasi uchun
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment o‘zgaruvchilari
+.env
+
+# Build papkalari (agar mavjud bo‘lsa)
+dist/
+build/
+
+# IDE va tahrirlovchi fayllari
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Sistemaga xos fayllar
+.DS_Store
+Thumbs.db
